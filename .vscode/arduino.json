@@ -1,4 +1,6 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "new_car_test.ino"
+    "sketch": "new_car_test.ino",
+    "port": "COM3",
+    "programmer": "ArduinoISP"
 }
